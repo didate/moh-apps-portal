@@ -3,3 +3,16 @@
         width: 50%;
     }
 }
+
+h3 {
+    font-size: 1.5rem;
+  }
+
+.pt-lg-5{
+    padding-top: 12rem !important
+}
+
+.bg-secondary {
+   
+    background-color: #34383d !important;
+  }
