@@ -44,7 +44,7 @@ const data = [
                  "description" : "",
                  "icon" : "bi bi-clipboard-plus",
                  "bgColor" : "bg-dark",
-                 "bgColorButton" : "btn-dark",
+                 "bgColorButton" : "btn-success",
                  "link" : "https://entrepot.sante.gov.gn/dhis"
              },
              {
@@ -52,7 +52,7 @@ const data = [
                  "description" : "",
                  "icon" : "bi bi-people",
                  "bgColor" : "bg-dark",
-                 "bgColorButton" : "btn-dark",
+                 "bgColorButton" : "btn-success",
                 "link" : "https://entrepot.sante.gov.gn/dhis"
              }
         ]
@@ -65,7 +65,7 @@ const data = [
                   "description" : "",
                   "icon" : "bi bi-people",
                   "bgColor" : "bg-dark",
-                  "bgColorButton" : "btn-dark",
+                  "bgColorButton" : "btn-success",
                   "link" : "https://edu.sante.gov.gn"
               },
               {
@@ -73,7 +73,7 @@ const data = [
                   "description" : "",
                   "icon" : "bi bi-people",
                   "bgColor" : "bg-dark",
-                  "bgColorButton" : "btn-dark",
+                  "bgColorButton" : "btn-success",
                  "link" : "https://support.sante.gov.gn"
               }
          ]

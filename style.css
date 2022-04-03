@@ -2,15 +2,23 @@
     .news-input {
         width: 50%;
     }
+    .pt-lg-5{
+        padding-top: 12rem !important
+    }
 }
 
+@media(max-width : 768px){
+    .img-fluid{
+        width: 65% !important;
+    }
+}
 h3 {
     font-size: 1.5rem;
   }
 
-.pt-lg-5{
-    padding-top: 12rem !important
-}
+.pt-5 {
+    padding-top: 8rem !important;
+  }
 
 .bg-secondary {
    
