@@ -45,7 +45,7 @@ const data = [
                  "icon" : "bi bi-clipboard-plus",
                  "bgColor" : "bg-dark",
                  "bgColorButton" : "btn-success",
-                 "link" : "https://entrepot.sante.gov.gn/dhis"
+                 "link" : "https://esigl.sante.gov.gn"
              },
              {
                  "name" : "iHRIS",
@@ -53,7 +53,7 @@ const data = [
                  "icon" : "bi bi-people",
                  "bgColor" : "bg-dark",
                  "bgColorButton" : "btn-success",
-                "link" : "https://entrepot.sante.gov.gn/dhis"
+                "link" : "https://ihrisguinee.sante.gov.gn"
              }
         ]
      },
