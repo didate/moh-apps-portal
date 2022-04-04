@@ -1,6 +1,6 @@
 const data = [
     {
-       "title" : "APPLICATIONS DHIS 2 NATIONAL",
+       "title" : "DHIS 2 NATIONAUX",
        "apps" :[
             {
                 "name" : "DHIS 2 SISR",
@@ -25,19 +25,41 @@ const data = [
                 "bgColor" : "bg-dark",
                 "bgColorButton" : "btn-success",
                 "link" : "https://entrepot.sante.gov.gn/archive"
-            },
-            {
-                "name" : "DHIS 2 ICT",
-                "description" : "",
-                "icon" : "bi bi-globe",
-                "bgColor" : "bg-success",
-                "bgColorButton" : "btn-dark",
-                "link" : "https://ict4h.sante.gov.gn/dhis"
             }
        ]
     },
     {
-        "title" : "APPLICATIONS ANNEXES",
+        "title" : "AUTRES PLATEFORMES DHIS 2",
+        "apps" :[
+             
+             {
+                 "name" : "DHIS 2 ICT",
+                 "description" : "",
+                 "icon" : "bi bi-cloud-slash",
+                 "bgColor" : "bg-success",
+                 "bgColorButton" : "btn-dark",
+                 "link" : "https://ict4h.sante.gov.gn/dhis"
+             },
+             {
+                "name" : "DHIS 2 PEV",
+                "description" : "",
+                "icon" : "bi bi-calendar-check",
+                "bgColor" : "bg-dark",
+                "bgColorButton" : "btn-success",
+                "link" : "https://entrepot.sante.gov.gn/pevguinee"
+            },
+             {
+                "name" : "DHIS 2 FORMATION",
+                "description" : "",
+                "icon" : "bi bi-bezier",
+                "bgColor" : "bg-success",
+                "bgColorButton" : "btn-dark",
+                "link" : "https://training.sante.gov.gn"
+            }
+        ]
+     },
+    {
+        "title" : "PLATEFORMES CONNEXES",
         "apps" :[
              {
                  "name" : "E-SIGL",
@@ -58,7 +80,7 @@ const data = [
         ]
      },
      {
-         "title" : "APPLICATIONS SUPPORTS",
+         "title" : "PLATEFORMES SUPPORTS",
          "apps" :[
               {
                   "name" : "MOODLE",
