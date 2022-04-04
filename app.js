@@ -63,7 +63,7 @@ const data = [
               {
                   "name" : "MOODLE",
                   "description" : "",
-                  "icon" : "bi bi-people",
+                  "icon" : "bi bi-book",
                   "bgColor" : "bg-dark",
                   "bgColorButton" : "btn-success",
                   "link" : "https://edu.sante.gov.gn"
@@ -71,7 +71,7 @@ const data = [
               {
                   "name" : "MANTIS",
                   "description" : "",
-                  "icon" : "bi bi-people",
+                  "icon" : "bi bi-bug",
                   "bgColor" : "bg-dark",
                   "bgColorButton" : "btn-success",
                  "link" : "https://support.sante.gov.gn"
