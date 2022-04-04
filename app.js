@@ -6,7 +6,7 @@ const data = [
                 "name" : "DHIS 2 SISR",
                 "description" : "",
                 "icon" : "bi bi-laptop",
-                "bgColor" : "bg-dark",
+                "bgColor" : "bg-secondary",
                 "bgColorButton" : "btn-success",
                 "link" : "https://entrepot.sante.gov.gn/dhis"
             },
@@ -22,7 +22,7 @@ const data = [
                 "name" : "DHIS 2 ARCHIVE",
                 "description" : "",
                 "icon" : "bi bi-archive",
-                "bgColor" : "bg-dark",
+                "bgColor" : "bg-secondary",
                 "bgColorButton" : "btn-success",
                 "link" : "https://entrepot.sante.gov.gn/archive"
             }
@@ -44,7 +44,7 @@ const data = [
                 "name" : "DHIS 2 PEV",
                 "description" : "",
                 "icon" : "bi bi-calendar-check",
-                "bgColor" : "bg-dark",
+                "bgColor" : "bg-secondary",
                 "bgColorButton" : "btn-success",
                 "link" : "https://entrepot.sante.gov.gn/pevguinee"
             },
@@ -65,7 +65,7 @@ const data = [
                  "name" : "E-SIGL",
                  "description" : "",
                  "icon" : "bi bi-clipboard-plus",
-                 "bgColor" : "bg-dark",
+                 "bgColor" : "bg-secondary",
                  "bgColorButton" : "btn-success",
                  "link" : "https://esigl.sante.gov.gn"
              },
@@ -73,7 +73,7 @@ const data = [
                  "name" : "iHRIS",
                  "description" : "",
                  "icon" : "bi bi-people",
-                 "bgColor" : "bg-dark",
+                 "bgColor" : "bg-secondary",
                  "bgColorButton" : "btn-success",
                 "link" : "https://ihrisguinee.sante.gov.gn"
              }
@@ -86,7 +86,7 @@ const data = [
                   "name" : "MOODLE",
                   "description" : "",
                   "icon" : "bi bi-book",
-                  "bgColor" : "bg-dark",
+                  "bgColor" : "bg-secondary",
                   "bgColorButton" : "btn-success",
                   "link" : "https://edu.sante.gov.gn"
               },
@@ -94,7 +94,7 @@ const data = [
                   "name" : "MANTIS",
                   "description" : "",
                   "icon" : "bi bi-bug",
-                  "bgColor" : "bg-dark",
+                  "bgColor" : "bg-secondary",
                   "bgColorButton" : "btn-success",
                  "link" : "https://support.sante.gov.gn"
               }
