@@ -67,7 +67,7 @@ const data = [
                  "icon" : "bi bi-clipboard-plus",
                  "bgColor" : "bg-secondary",
                  "bgColorButton" : "btn-success",
-                 "link" : "https://esigl.sante.gov.gn"
+                 "link" : "https://esigl.santegovgn.org/"
              },
              {
                  "name" : "iHRIS",
