@@ -54,7 +54,7 @@ const data = [
                 "icon" : "bi bi-bezier",
                 "bgColor" : "bg-success",
                 "bgColorButton" : "btn-dark",
-                "link" : "https://training.sante.gov.gn"
+                "link" : "https://entrepot.sante.gov.gn/training"
             }
         ]
      },
@@ -88,7 +88,7 @@ const data = [
                   "icon" : "bi bi-book",
                   "bgColor" : "bg-secondary",
                   "bgColorButton" : "btn-success",
-                  "link" : "https://edu.sante.gov.gn"
+                  "link" : "https://apps.sante.gov.gn/moodle"
               },
               {
                   "name" : "MANTIS",
@@ -96,7 +96,7 @@ const data = [
                   "icon" : "bi bi-bug",
                   "bgColor" : "bg-secondary",
                   "bgColorButton" : "btn-success",
-                 "link" : "https://support.sante.gov.gn"
+                 "link" : "https://apps.sante.gov.gn/mantis"
               }
          ]
       }
